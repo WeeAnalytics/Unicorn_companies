@@ -30,7 +30,7 @@ Focusing on the top 100 companies:
 - Most of the top 100 companies are in Fintech, followed by Internet software and services
 
 3. ### Average number of years to unicorn status
-![Ave years to unicorn](images/5_yr_to_unicorn.png)
+![Ave years to unicorn](images/5_Yr_to_unicorn.png)
 - The average years for a Fintech company to achieve unicorn status is approximately 6.5 years and it takes slightly longer for a company in internet software and services.
 
 4. ### Investors with highest total valuation
